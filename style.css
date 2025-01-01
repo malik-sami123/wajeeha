@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+.logo{
+    height: inherit;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+.nav{
+    height: inherit;
+    width: 20%;
+    display: flex;
+    margin-top: 15px;
+}
+/* second section */
+.main1{
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+.new{
+    height: inherit;
+    width: 50%;
+    margin-left: 50px;
+}
+.images{
+    height: inherit;
+    width: 50%;
+}
+.btn{
+    background-color: dodgerblue;
+}
+/* third section */
+.main2{
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+.line{
+    width: 50%;
+    height: inherit;
+    margin-left: 50px;
+}
+.head{
+    color: darkgreen;
+    text-align: center;
+}
+.cmt{
+    height: 120px;
+    width: 150px;
+    background-color: azure;
+    display: flex;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+.img{
+    width: 50%;
+    height: inherit;
+}
+/* fourth section */
+.main3{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    background-color: slateblue;
+}
+.get{
+    height: inherit;
+    width: 50%;
+    margin-left: 50px;
+    color: aliceblue;
+}
+.type{
+    height: inherit;
+    width: 50%;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+.email{
+    width: 150px;
+}
+.butn{
+    background-color: dodgerblue;
+    width: 105px;
+    height: 20px;
+    border-radius: 2px;
+    font-size: 10px;
+}
+/* fifth section */
+.main4{
+    height: 150px;
+    width: 100%;
+    background-color: darkslateblue;
+    display: flex;
+    justify-content: center;
+}
+.sec1{
+    height: inherit;
+    width: 33.33%;
+    margin-top: 40px;
+    margin-left: 50px;
+    color: aliceblue;
+}
+.sec2{
+    height: inherit;
+    width: 33.33%;
+    margin-top: 40px;
+    margin-left: 60px;
+    color: aliceblue;
+}
+.sec3{
+    height: inherit;
+    width: 33.33%;
+    margin-top: 40px;
+    margin-left: 60px;
+    color: aliceblue;
+}
